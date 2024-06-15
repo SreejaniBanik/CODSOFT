@@ -1,7 +1,7 @@
 body{
     background-color: #5ac7b0;
     display: grid;
-    height: 100cm;
+    height: 20cm;
     place-items: center;
  }
  .calc{
